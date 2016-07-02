@@ -1,0 +1,28 @@
+{
+  "name": "html-assert",
+  "version": "0.0.1",
+  "description": "Small html assert lib",
+  "main": "src/index.js",
+  "dependencies": {
+    "chai": "3.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Not configured yet\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheusrocha89/html-assert.git"
+  },
+  "keywords": [
+    "html",
+    "assert",
+    "assertion"
+  ],
+  "author": "matheusrocha89",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matheusrocha89/html-assert/issues"
+  },
+  "homepage": "https://github.com/matheusrocha89/html-assert#readme"
+}
